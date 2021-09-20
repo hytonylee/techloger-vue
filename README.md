@@ -22,3 +22,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Text Production
+npm i -g serve
+serve -s dist
+
+### Test Server
+npm i json-server
